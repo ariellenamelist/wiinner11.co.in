@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
 
-SiteMap: https://www.winner11.co.in/
+SiteMap: https://www.winner11.co.in/sitemap.xml
+Images SiteMap: https://www.winner11.co.in/images_sitemap.xml
