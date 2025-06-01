@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: 
+
+SiteMap: https://www.winner11.co.in/
